@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assingnment_7/FoodCell.swift"
+            timestampString = "660647799.9242049"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "FoodCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UILabel in variable initialization expression of Assingnment_7.FoodCell.(mylbl in _7110DD1EEA4F9CB749796616241590A0) : __C.UILabel"
+                  moduleName = "Assingnment_7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dcs/Documents/Assignment%207/Assingnment_7/Assingnment_7/FoodCell.swift"
+                  timestampString = "660567261.842344"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "14">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assingnment_7.FoodCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Assingnment_7.FoodCell"
+                  moduleName = "Assingnment_7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dcs/Documents/Assignment%207/Assingnment_7/Assingnment_7/FoodCell.swift"
+                  timestampString = "660567261.84684"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "163">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assingnment_7.FoodCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Assingnment_7.FoodCell&gt;"
+                  moduleName = "Assingnment_7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dcs/Documents/Assignment%207/Assingnment_7/Assingnment_7/FoodCell.swift"
+                  timestampString = "660567261.85027"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "103">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assingnment_7/FoodCell.swift"
+            timestampString = "660647799.924256"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "mylbl"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UILabel in variable initialization expression of Assingnment_7.FoodCell.(mylbl in _7110DD1EEA4F9CB749796616241590A0) : __C.UILabel"
+                  moduleName = "Assingnment_7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dcs/Documents/Assignment%207/Assingnment_7/Assingnment_7/FoodCell.swift"
+                  timestampString = "660567271.564683"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "14">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assingnment_7.FoodCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Assingnment_7.FoodCell"
+                  moduleName = "Assingnment_7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dcs/Documents/Assignment%207/Assingnment_7/Assingnment_7/FoodCell.swift"
+                  timestampString = "660567271.568436"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "163">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assingnment_7.FoodCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Assingnment_7.FoodCell&gt;"
+                  moduleName = "Assingnment_7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dcs/Documents/Assignment%207/Assingnment_7/Assingnment_7/FoodCell.swift"
+                  timestampString = "660567271.571928"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "103">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
